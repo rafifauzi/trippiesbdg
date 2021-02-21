@@ -1,0 +1,17 @@
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+        <script>
+            $(document).ready(
+                function(){
+                $('#buktiTrf').on('show.bs.modal', function (e) {
+                    var rowid = $(e.relatedTarget).data('id');
+                    $.ajax({
+                        type : 'post',
+                        url : 'buktitrf.php',
+                        data :  'rowid='+ rowid,
+                        success : function(data){
+                        $('.fetched-data').html(data);
+                        }
+                    });
+                 });
+            } );
+        </script>

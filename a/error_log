@@ -1,0 +1,75 @@
+[09-Nov-2018 10:01:15 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[09-Nov-2018 10:01:59 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[09-Nov-2018 10:02:54 Asia/Jakarta] PHP Notice:  Undefined index: tgl_bayar in /home/trie4877/public_html/a/detail-transaksi.php on line 150
+[09-Nov-2018 10:02:54 Asia/Jakarta] PHP Notice:  Undefined index: nama_paket in /home/trie4877/public_html/a/detail-transaksi.php on line 179
+[14-Nov-2018 09:51:43 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:51:43 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:52:04 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:52:04 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:53:56 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:53:56 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:53:56 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 09:53:56 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:05:41 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/trie4877/public_html/a/proses-store.php on line 40
+[14-Nov-2018 10:11:58 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/trie4877/public_html/a/proses-store.php on line 40
+[14-Nov-2018 10:12:26 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:12:26 Asia/Jakarta] PHP Notice:  Undefined variable: idUser in /home/trie4877/public_html/a/bank.php on line 83
+[14-Nov-2018 10:16:11 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:16:11 Asia/Jakarta] PHP Notice:  Undefined variable: idUser in /home/trie4877/public_html/a/bank.php on line 83
+[14-Nov-2018 10:16:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:16:22 Asia/Jakarta] PHP Notice:  Undefined variable: idUser in /home/trie4877/public_html/a/bank.php on line 83
+[14-Nov-2018 10:16:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:16:31 Asia/Jakarta] PHP Notice:  Undefined variable: idUser in /home/trie4877/public_html/a/bank.php on line 83
+[14-Nov-2018 10:20:59 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:20:59 Asia/Jakarta] PHP Notice:  Undefined variable: idUser in /home/trie4877/public_html/a/bank.php on line 83
+[14-Nov-2018 10:21:09 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:21:09 Asia/Jakarta] PHP Notice:  Undefined variable: idUser in /home/trie4877/public_html/a/bank.php on line 83
+[14-Nov-2018 10:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah in /home/trie4877/public_html/a/list-pembukuan.php on line 176
+[14-Nov-2018 10:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: gagal in /home/trie4877/public_html/a/list-pembukuan.php on line 177
+[14-Nov-2018 10:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah1 in /home/trie4877/public_html/a/list-pembukuan.php on line 257
+[14-Nov-2018 10:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: gagal1 in /home/trie4877/public_html/a/list-pembukuan.php on line 258
+[14-Nov-2018 10:21:23 Asia/Jakarta] PHP Notice:  Undefined variable: gaga2 in /home/trie4877/public_html/a/list-pembukuan.php on line 259
+[14-Nov-2018 10:32:31 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:32:31 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:37:37 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:37:37 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:37:38 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:37:38 Asia/Jakarta] PHP Notice:  Undefined index: status-aktif in /home/trie4877/public_html/a/home.php on line 145
+[14-Nov-2018 10:39:28 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:50:30 Asia/Jakarta] PHP Notice:  Undefined variable: file_tmp1 in /home/trie4877/public_html/a/proses-opentrip.php on line 51
+[14-Nov-2018 10:52:28 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/trie4877/public_html/a/proses-penginapan.php on line 39
+[14-Nov-2018 10:55:49 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah2 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 149
+[14-Nov-2018 10:55:49 Asia/Jakarta] PHP Notice:  Undefined variable: gagal5 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 195
+[14-Nov-2018 10:55:50 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah2 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 149
+[14-Nov-2018 10:55:50 Asia/Jakarta] PHP Notice:  Undefined variable: gagal5 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 195
+[14-Nov-2018 10:57:46 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah2 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 149
+[14-Nov-2018 10:57:46 Asia/Jakarta] PHP Notice:  Undefined variable: gagal5 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 195
+[14-Nov-2018 10:57:53 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah2 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 149
+[14-Nov-2018 10:57:53 Asia/Jakarta] PHP Notice:  Undefined variable: gagal5 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 195
+[14-Nov-2018 10:57:54 Asia/Jakarta] PHP Notice:  Undefined variable: jumlah2 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 149
+[14-Nov-2018 10:57:54 Asia/Jakarta] PHP Notice:  Undefined variable: gagal5 in /home/trie4877/public_html/a/list-pembukuan-iklan.php on line 195
+[14-Nov-2018 10:58:04 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:04 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:33 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:33 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:35 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:35 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:35 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:35 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:42 Asia/Jakarta] PHP Notice:  Undefined index: id_user in /home/trie4877/public_html/a/detail-trip.php on line 6
+[14-Nov-2018 10:58:42 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/trie4877/public_html/a/menu/header.php on line 3
+[14-Nov-2018 10:58:57 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:58:57 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:59:14 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 10:59:14 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:00:18 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:00:18 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:01:48 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:01:48 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:02:39 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:02:39 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:02:47 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:02:47 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:02:56 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:02:56 Asia/Jakarta] PHP Notice:  Undefined index: kondisi in /home/trie4877/public_html/a/list-openTrip.php on line 99
+[14-Nov-2018 11:08:07 Asia/Jakarta] PHP Notice:  Undefined index: gambar in /home/trie4877/public_html/a/proses-penginapan.php on line 39
